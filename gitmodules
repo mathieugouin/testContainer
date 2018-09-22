@@ -1,0 +1,3 @@
+# submodule.<name>.url
+submodule.test1.https://github.com/mathieugouin/test1.git
+submodule.test2.https://github.com/mathieugouin/test2.git
